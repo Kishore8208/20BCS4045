@@ -1,1 +1,1 @@
-# 20BCS4045
+# npm i and to run node index.js
